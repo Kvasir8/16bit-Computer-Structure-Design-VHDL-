@@ -3,6 +3,8 @@
 # Overview
 ![alt text](https://github.com/Kvasir8/16bit-Computer-Structure-Design-VHDL-/raw/master/Pics/Diagram/Block%20Diagram.JPG?raw=truetruetrue)
 
+![alt text](https://github.com/Kvasir8/16bit-Computer-Structure-Design-VHDL-/blob/master/Pics/Results/Control%20Functions%20Chart.JPG?raw=true)
+
 # Result
 
 Load Rx, data : Rx <- Data 

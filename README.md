@@ -1,9 +1,10 @@
 # 16bit-Computer-Structure-Design-VHDL-
 
-Overview
+#Overview
 ![alt text](https://github.com/Kvasir8/16bit-Computer-Structure-Design-VHDL-/raw/master/Pics/Diagram/Block%20Diagram.JPG?raw=truetruetrue)
 
-Result
+#Result
+
 Load Rx, data : Rx <- Data 
 ![alt text](https://github.com/Kvasir8/16bit-Computer-Structure-Design-VHDL-/blob/master/Pics/Results/LoadRxdata.JPG?raw=true)
 Move Rx, Ry : Rx <- Ry 
